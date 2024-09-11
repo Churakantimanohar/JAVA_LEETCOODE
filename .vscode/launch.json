@@ -1,0 +1,182 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "n",
+      "request": "launch",
+      "mainClass": "n",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "AnagramString",
+      "request": "launch",
+      "mainClass": "AnagramString",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "FirstandLast",
+      "request": "launch",
+      "mainClass": "FirstandLast",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "SearchinrotatedArray",
+      "request": "launch",
+      "mainClass": "SearchinrotatedArray",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Lowerbond",
+      "request": "launch",
+      "mainClass": "Lowerbond",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Binarysearch2",
+      "request": "launch",
+      "mainClass": "Binarysearch2",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "SmallerSecond",
+      "request": "launch",
+      "mainClass": "SmallerSecond",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Power",
+      "request": "launch",
+      "mainClass": "Power",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AtoZ",
+      "request": "launch",
+      "mainClass": "AtoZ",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Binarysearch",
+      "request": "launch",
+      "mainClass": "Binarysearch",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Bubblesort",
+      "request": "launch",
+      "mainClass": "Bubblesort",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Concatenation",
+      "request": "launch",
+      "mainClass": "Concatenation",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "IPaddress",
+      "request": "launch",
+      "mainClass": "IPaddress",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Kidswithgreatestcandies",
+      "request": "launch",
+      "mainClass": "Kidswithgreatestcandies",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Minumber",
+      "request": "launch",
+      "mainClass": "Minumber",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Output",
+      "request": "launch",
+      "mainClass": "Output",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "RunningSumof1dArray",
+      "request": "launch",
+      "mainClass": "RunningSumof1dArray",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "SearchInLinkedList",
+      "request": "launch",
+      "mainClass": "SearchInLinkedList",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Targetarray",
+      "request": "launch",
+      "mainClass": "Targetarray",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "WealthyCustomers",
+      "request": "launch",
+      "mainClass": "WealthyCustomers",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "d",
+      "request": "launch",
+      "mainClass": "d",
+      "projectName": "javapractise_317b2cba"
+    },
+    {
+      "type": "java",
+      "name": "shuffletheArray",
+      "request": "launch",
+      "mainClass": "shuffletheArray",
+      "projectName": "javapractise_317b2cba"
+    }
+  ]
+}
