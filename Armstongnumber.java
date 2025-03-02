@@ -35,4 +35,5 @@ public static int  digitsnumber(int input) {
     }
     return cnt;
 }
+
 }

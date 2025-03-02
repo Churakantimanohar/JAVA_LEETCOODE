@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class WealthyCustomers {
     public static int maximumWealth(int[][] accounts) {
-        // int largest = accounts[0][0];
+       =// int largest = accounts[0][0];
         // for(int i[] : accounts){
         // int current = 0;
         // for(int j : i) current += j;

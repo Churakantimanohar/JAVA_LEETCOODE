@@ -39,13 +39,18 @@ public class PowerOfTwo {
         if (n == 1) return true;
         return (n % 2 == 0) && isPowerOfTwoRecursive(n / 2);
     }
+   static public boolean isPowerOfThwoRecursive(int n) {
+        if (n <= 0) return false;
+        if (n == 1) return true;
+        return (n % 2 == 0) && isPowerOfThwoRecursive(n / 2);
+    }
     
     // Main function to test the different methods
     public static void main(String[] args) {
-        PowerOfTwo powerOfTwo = new PowerOfTwo();
+       PowerOfTwo powerOfTwo = new PowerOfTwo();
         
         int testNumber = 16;
-        
+        System.out.println(isPowerOfThwoRecursive(testNumber));
         System.out.println("Using Loop: " + powerOfTwo.isPowerOfTwoUsingLoop(testNumber));
         System.out.println("Using Bitwise: " + powerOfTwo.isPowerOfTwoUsingBitwise(testNumber));
         System.out.println("Using Division: " + powerOfTwo.isPowerOfTwoUsingDivision(testNumber));

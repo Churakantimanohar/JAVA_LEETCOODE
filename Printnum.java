@@ -3,9 +3,7 @@
 
 public class Printnum {
     public static void printnumbers(int n){
-        if(n > 100){
-            return;
-        }
+       
         System.out.println(n);
         printnumbers(n+1);
     }
